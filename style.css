@@ -26,3 +26,11 @@ body {
   align-items: center;
   flex-wrap: wrap;
 }
+
+.container img {
+  object-fit: cover;
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+  max-width: 100%;
+}
